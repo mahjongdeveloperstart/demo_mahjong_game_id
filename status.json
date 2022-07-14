@@ -1,10 +1,11 @@
 {
-   "status":true,
+   "status":false,
    "status_check_google":true,
-   "start_day_check":"22",
+   "start_day_check":"21",
    "end_day_check":"31",
-   "link_wa":"https://wa.me/6285687687678",
-   "master_url":"https://128.199.230.209/",
-   "second_url":"https://gulungandev8282.github.io/maxwin_for_mygames/",
-   "demo_url":"https://gulungandev8282.github.io/maxwin_for_mygames/demo_games.html"
+   "link_wa":"https://api.whatsapp.com/send?phone=6285280375908&text=Saya%20Tertarik%20Untuk%20bergabung%20Di%20Situs%20Joker%20Boskuu%20!!",
+   "master_url":"https://lionkasino.com/index.jsp",
+   "second_url":"https://mahjongdeveloperstart.github.io/demo_mahjong_game_id/",
+   "demo_url":"https://mahjongdeveloperstart.github.io/demo_mahjong_game_id/demo_games.html",
+   "link_daftar": "https://lionkasino.com/register.jsp?ref=GpUHGFgKJFQRI0cQEt=="
 }
